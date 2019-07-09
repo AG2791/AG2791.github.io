@@ -1,11 +1,11 @@
 # Site settings
-author: AJ Guiles
-title: 
+author: AJ
+title: Flatiron School -Learn Co Blog 
 header-img: img/home-bg.png
 email: ashiguiles@gmail.com
-copyright_name: AJ Guiles
+copyright_name: AJ
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning With Flatiron School 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AG2791
