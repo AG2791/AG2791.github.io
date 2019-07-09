@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Four pitfalls to avoid for API newbies."
-date:       2019-07-09 18:54:08 +0000
+date:       2019-07-09 14:54:09 -0400
 permalink:  four_pitfalls_to_avoid_for_api_newbies
 ---
 
@@ -10,7 +10,7 @@ permalink:  four_pitfalls_to_avoid_for_api_newbies
 
 
 I recently had my first API experience, for the newbies like myself, API is shorthand for Application Programming Interface. You’ve probably heard the term and you’ve mostly definitely been a beneficiary of APIs as they have become a ubiquitous component of most popular apps. 
-So what exactly is any API? Well, I’ll let this [video](https://www.youtube.com/watch?v=s7wmiS2mSXY/) be a much better guide than I can be.
+So what exactly is an API? Well, I’ll let this [video](https://www.youtube.com/watch?v=s7wmiS2mSXY/) be a much better guide than I can be.
 
 
  
